@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Webdev-walkthrough"
+		},
+		{
+			"path": "../Fix-me!"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Fix-me!"
+	}
+}
